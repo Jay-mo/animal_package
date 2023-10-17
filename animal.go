@@ -1,4 +1,4 @@
-package animalpackage
+package animal_package
 
 
 
