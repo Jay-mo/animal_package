@@ -1,4 +1,4 @@
-package animal_package
+package main
 
 
 
